@@ -43,4 +43,4 @@ Integrated Development Environment: Jupyter-Notebook, Sublime Text, PyCharm, Vis
 
 
 # 📫 How to reach me:
-You can find my contact details on my portfolio or else can drop a mail on yadavakansha450@gmail.com. You may also wish to connect with me on linkedin and write to me.
+You can find my contact details on my portfolio or else can drop a mail on yadavakansha450@gmail.com. You may also wish to connect with me on [linkedin](https://www.linkedin.com/in/akansha-yadav-4bb7321a9/) and write to me.
