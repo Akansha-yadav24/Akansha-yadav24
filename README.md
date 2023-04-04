@@ -39,3 +39,8 @@ Data Visualization: Matplotlib, Tableau, Seaborn, PowerBI.
 Cloud Services: Google Colaboratory, Kaggle kernel.
 
 Integrated Development Environment: Jupyter-Notebook, Sublime Text, PyCharm, Visual Studio code.
+
+
+
+# 📫 How to reach me:
+You can find my contact details on my portfolio or else can drop a mail on yadavakansha450@gmail.com. You may also wish to connect with me on linkedin and write to me.
