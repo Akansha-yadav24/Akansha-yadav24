@@ -20,11 +20,10 @@ Hi  I'm a Data Scientist
 I help Students to improve their skills in the data field by 1% every day.
 Get life-time access to my Git 
 
-# Socials
-   
+## Profile
 Innovative Data Scientist with 2.5 years of experience in Technical specialist and Data Science. Working on IBM courses with lab building Eager to bring expertise to sole new challenging problems.
 
-•2.5 years of experience in Teaching multiple courses which including Block based programming, C++, Robotics, Python Programming, machine Learning and creation/Testing of various courses on coursera and edx in Python environments.
+• 2.5 years of experience in Teaching multiple courses which including Block based programming, C++, Robotics, Python Programming, machine Learning and creation/Testing of various courses on coursera and edx in Python environments.
 
 • Experience in Functional and Object-Oriented Programming styles of Python.
 
@@ -44,7 +43,7 @@ Innovative Data Scientist with 2.5 years of experience in Technical specialist a
 
 
 # Tools | Frameworks
-Web: ReactJS, NodeJS, ExpressJS, MongoDB, GraphQL
+Web: Sql, Webscrapping
 
 Data Preprocessing: NumPy, Pandas.
 
