@@ -16,6 +16,9 @@ Innovative Data Scientist with 2.5 years of experience in Technical specialist a
 
 • have experience in working within the education sector.
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akanshayadav24" alt="blurred-machine" /> </p>
+
 # Skills
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
