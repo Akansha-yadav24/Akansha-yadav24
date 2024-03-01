@@ -6,7 +6,7 @@ Get lifetime access to my Git.
 ## Profile
 Innovative Data Scientist with 3 years of experience in Technical specialist and Data Science. I am working on IBM courses with lab building, Eager to bring expertise to sole new, challenging problems.
 
-• 2.5 years of experience in Teaching multiple courses, which includes block-based programming, C++, Robotics, Python Programming, Machine Learning and creation/Testing of various courses on coursera and edx in Python environments.
+• 3 years of experience in Teaching multiple courses, which include block-based programming, C++, Robotics, Python Programming, Machine Learning and creation/Testing of various courses on coursera and edx in Python environments.
 
 • Experienced in Functional and Object-Oriented Programming styles of Python.
 
