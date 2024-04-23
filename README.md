@@ -1,4 +1,4 @@
-### Hi, 👋 I'm a Data Scientist
+### Hi, 👋 I'm a Data Science SME
 
 I help Students improve their skills in the data field by 1% every day.
 Get lifetime access to my Git. 
